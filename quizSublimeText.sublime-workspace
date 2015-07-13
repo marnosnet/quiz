@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"qui",
+				"quizController〔variable〕"
+			],
+			[
+				"co",
+				"correcta"
+			],
+			[
+				"res",
+				"respuesta"
+			],
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
+				"re",
+				"re	require"
+			],
+			[
+				"g",
+				"get	Get Elements"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"lis",
+				"listar"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"letra",
+				"letrasUsadas"
+			],
+			[
+				"letras",
+				"letrasEncontradas"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"DIV",
+				"div"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/index.ejs",
+			"settings":
+			{
+				"buffer_size": 259,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1375,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/index.js",
+			"settings":
+			{
+				"buffer_size": 378,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controllers/quiz_controller.js",
+			"settings":
+			{
+				"buffer_size": 32,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "Snippet: j",
+		"selected_items":
+		[
+			[
+				"Snippet: j",
+				"Snippet: Object Value JS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"javascript"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/I/Git/random/README.md",
+		"/I/Git/random/LICENSE.md",
+		"/I/Git/adarkroom/index.html",
+		"/I/Git/adarkroom/script/engine.js",
+		"/I/Git/random/random.js",
+		"/I/Users/Marcos/Downloads/Programacion/HTML5/Ejemplos/Tiles-master/Tiles-master/README.md",
+		"/I/Git/random/.gitattributes",
+		"/I/Users/Marcos/Downloads/Programacion/HTML5/Ejemplos/juegoOca-master/juegoOca-master/README.md",
+		"/C/Users/marnos/Documents/Reincorporacion  brizuela/Reincorporacion  brizuela/script.js",
+		"/I/Dropbox/Dropbox/Dropbox/Proyecto Posgrado/Resguardo/Antes de Actualizar Novedades 10-06-2015/category-seminarios.php",
+		"/I/node/p2p/p2p.js",
+		"/I/Dropbox/Dropbox/Dropbox/Proyecto Posgrado/Resguardo/Antes de Actualizar Novedades 10-06-2015/category-becas.php",
+		"/I/Dropbox/Dropbox/Dropbox/Proyecto Posgrado/Resguardo/Antes de Actualizar Novedades 10-06-2015/category-carreras.php",
+		"/I/Users/Marcos/Downloads/reincorporacion/script.js",
+		"/E/Mafia II/3rd/DirectX/edCSharp/Nuevo documento de texto.txt",
+		"/C/Users/marnos/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/marnos/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/I/Users/Marcos/Downloads/tp4.html",
+		"/I/Users/Marcos/Downloads/Practicos/C04A9F9C-240-TP Nro 2/index.html",
+		"/I/Users/Marcos/Downloads/Practicos/5FB4EAEA-215-tp2 diaz cuezzo/tp2.html",
+		"/I/node/node.js",
+		"/I/Curso/2-Desarrollo de servicios en la nube con HTML5/Modulo 2/P2P/MOD2_P2P/agenda.js",
+		"/I/node/a/agenda.js",
+		"/I/Dropbox/Dropbox/Dropbox/Proyecto Posgrado/Modificacion/plantilla1.html",
+		"/C/Users/marnos/AppData/Local/Temp/fz3temp-2/style 2.css",
+		"/C/Users/marnos/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/marnos/AppData/Local/Temp/fz3temp-2/style.css",
+		"/I/Dropbox/Dropbox/Dropbox/Insstituto/Aplicaciones de Diseño Web/Reincorporacion/style.css",
+		"/I/Dropbox/Dropbox/Dropbox/Insstituto/Aplicaciones de Diseño Web/Reincorporacion/script.js",
+		"/I/Dropbox/Dropbox/Dropbox/Insstituto/Aplicaciones de Diseño Web/Reincorporacion/persona.html",
+		"/I/Dropbox/Dropbox/Dropbox/Proyecto Posgrado/Modificacion/plantilla.html",
+		"/I/Dropbox/Dropbox/Dropbox/Proyecto Posgrado/Modificacion/style.css"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"init",
+			"primejailbait",
+			"legal",
+			".smooth_slider .smooth_slideri h2",
+			"top: 10px;",
+			".smooth_slider",
+			"margin: 0 15px;",
+			"margin:0 15",
+			"magin:0",
+			"magin:0 15",
+			"magin: 0 15",
+			"@",
+			"cuadroNovedades",
+			"letrasUsadas",
+			"push",
+			"titulo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/index.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 72.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "routes/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								378,
+								378
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "controllers/quiz_controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "quizSublimeText.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
